@@ -1,0 +1,25 @@
+# sweep_config.yaml
+program: scibert-finetuning/train.py
+method: bayes  # Opt for Bayesian optimization. Alternatives: grid, random
+metric:
+  name: avg_val_loss
+  goal: minimize
+parameters:
+  learning_rate:
+    distribution: uniform
+    min: 1e-5
+    max: 5e-2
+  batch_size:
+    values: [16, 32]
+  weight_decay:
+    distribution: uniform
+    min: 1e-3
+    max: 1e-1
+  dropout_rate:
+    distribution: uniform
+    min: 0.0
+    max: 0.2
+  warmup_steps:
+    values: [0, 5, 10]
+  epochs:
+    values: [30, 50, 70]

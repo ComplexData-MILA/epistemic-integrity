@@ -1,0 +1,7 @@
+model_list:
+  - model_name: llama3-8b
+    litellm_params:
+      model: bedrock/meta.llama3-8b-instruct-v1:0
+  - model_name: llama3-70b
+    litellm_params:
+      model: bedrock/meta.llama3-70b-instruct-v1:0

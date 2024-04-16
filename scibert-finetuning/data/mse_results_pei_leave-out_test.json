@@ -1,0 +1,22 @@
+[
+    {
+        "directory": "Anthropic",
+        "mse_loss": 0.10571666806936264
+    },
+    {
+        "directory": "CMV",
+        "mse_loss": 0.1511811465024948
+    },
+    {
+        "directory": "GM",
+        "mse_loss": 0.17042919993400574
+    },
+    {
+        "directory": "llama3-8b",
+        "mse_loss": 0.13109378516674042
+    },
+    {
+        "directory": "Pei",
+        "mse_loss": 0.04778917506337166
+    }
+]
