@@ -1,0 +1,1256 @@
+[
+    {
+        "statement": "\u201cUnder part 2 of the infrastructure bill, upon death the entire value of your accumulated wealth and estate will be taxed at 61%.\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "The statement is false because there is no provision in the infrastructure bill that specifically imposes a 61% tax on the entire value of accumulated wealth and estate upon death. Such a high tax rate would be unusually high and would likely face significant opposition and scrutiny."
+    },
+    {
+        "statement": "An image of empty grocery store shelves shows the effect of President Joe Biden's \u201cBuild Back Better\u201d plan.",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "While the statement suggests a causal relationship between President Joe Biden's \"Build Back Better\" plan and empty grocery store shelves, there is not enough evidence provided to support this claim. The image itself does not demonstrate a direct connection to the plan, and other factors such as supply chain issues, natural disasters, or local economic conditions could also contribute to empty grocery store shelves. Further investigation and context are necessary to accurately determine the cause of the empty shelves."
+    },
+    {
+        "statement": "\u201cEurope COMPLETELY BANS the Moderna vaccine for young people.\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "This statement is false. As of now, there is no evidence or official announcement to suggest that Europe has completely banned the Moderna vaccine for young people. It is crucial to rely on trusted sources and stay updated with validated information regarding vaccine regulations and recommendations."
+    },
+    {
+        "statement": "\u201cRaising the debt limit is paying our old debts. It has nothing to do with new spending.\u201d",
+        "classification label": "True",
+        "true certainty": "90%",
+        "explanation": "The statement is true because raising the debt limit allows the government to borrow more money to pay off its existing debts, rather than funding new spending initiatives."
+    },
+    {
+        "statement": "\u201cThe Walker-Kleefisch administration slashed $800 million from public schools.\"",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "The statement that \"The Walker-Kleefisch administration slashed $800 million from public schools\" is false. There is no evidence or reliable information provided to substantiate this claim. It is important to rely on credible sources and factual data before making any conclusions about budget cuts to public schools during a specific administration."
+    },
+    {
+        "statement": "People who are vaccinated for the coronavirus \u201ccannot spread it to you.\"",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "There is evidence to suggest that COVID-19 vaccinated individuals can still contract and spread the virus, although the risk may be lower compared to unvaccinated individuals. While vaccines can significantly reduce the chance of severe illness or hospitalization, it is still possible for vaccinated individuals to carry and transmit the virus, even if they are asymptomatic or have only mild symptoms."
+    },
+    {
+        "statement": "\u201cPfizer admits there\u2019s no vaccine approved by FDA.\u201d",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "The statement is misleading and not entirely accurate. While Pfizer has developed a vaccine for COVID-19, it has been granted emergency use authorization by the FDA. This means that the vaccine has undergone rigorous testing and evaluation for safety and efficacy, even though it has not yet received full approval. Therefore, it is incorrect to claim that there is no vaccine approved by the FDA."
+    },
+    {
+        "statement": "Dr. Anthony Fauci and U.S. health officials plotted \u201cfor a new avian flu virus to enforce universal flu vaccination.\u201d",
+        "classification label": "False",
+        "true certainty": "70%",
+        "explanation": "This statement is making a serious accusation regarding Dr. Anthony Fauci and U.S. health officials, claiming that they plotted to create a new avian flu virus to enforce universal flu vaccination. However, there is insufficient evidence or credible information to support this claim. It is important to rely on verified sources and factual evidence when assessing such allegations."
+    },
+    {
+        "statement": "The percentage of vaccinated employees at United Airlines increased after the mandate because unvaccinated employees left the company.",
+        "classification label": "True",
+        "true certainty": "90%",
+        "explanation": "The statement suggests that the percentage of vaccinated employees at United Airlines increased after the mandate because unvaccinated employees left the company. If unvaccinated employees were required to leave the company due to the vaccine mandate, it is likely that the percentage of vaccinated employees would increase. However, without additional data, the certainty of this statement cannot be determined with absolute certainty."
+    },
+    {
+        "statement": "Says Dr. Anthony Fauci said he will not \u201ctake a PCR COVID test.\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "This statement is false because there is no evidence or public record to support the claim that Dr. Anthony Fauci said he will not take a PCR COVID test. Additionally, it is highly unlikely that a leading public health official like Dr. Fauci would refuse a standard diagnostic test for COVID-19."
+    },
+    {
+        "statement": "\u201cU.S. acres burned each year are much fewer now \u2014 even in our worst years \u2014 than was the case in the early 20th century.\u201d",
+        "classification label": "True",
+        "true certainty": "90%",
+        "explanation": "This statement is true because there is historical data that supports the claim that the number of acres burned each year in the United States has decreased over time, even during the worst years. This is likely due to advancements in firefighting techniques, increased awareness of fire prevention measures, and better land management practices."
+    },
+    {
+        "statement": "\u201cBill Clinton death ruled a homicide, death by poison.\u201d",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "This statement is highly unlikely to be true. There is no credible evidence or official reports suggesting that Bill Clinton's death was ruled a homicide due to poison. It is important to verify information from reliable sources before accepting such claims."
+    },
+    {
+        "statement": "\"The media is pretty quiet about Florida's decline in COVID cases. No mask mandates or vaccine mandates.\"",
+        "classification label": "True",
+        "true certainty": "Certainty: 80%",
+        "explanation": "The statement accurately reflects the fact that the media has not given significant coverage to Florida's decline in COVID cases and the absence of mask and vaccine mandates. However, the certainty is not 100% as media coverage may vary across different outlets and may have been reported to some extent."
+    },
+    {
+        "statement": "Pfizer vaccine contains living particles that can germinate to cause sickness.",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "The Pfizer vaccine does not contain living particles that can germinate to cause sickness. The vaccine uses mRNA technology to instruct cells to produce a harmless protein that triggers an immune response, without any live virus particles. The misinformation about living particles in the vaccine is incorrect and has been debunked by scientific experts."
+    },
+    {
+        "statement": "Over 2 million injuries from COVID-19 vaccines have been reported to the World Health Organization.",
+        "classification label": "False",
+        "true certainty": "0.\nThe statement is not true",
+        "explanation": "According to the World Health Organization (WHO), as of September 2021, the number of reported adverse events following COVID-19 vaccination is significantly smaller than 2 million. The WHO closely monitors vaccine safety and adverse event reporting, and while there have been some reported side effects, they are generally rare and milder compared to the risks posed by COVID-19 itself."
+    },
+    {
+        "statement": "Says Rebecca Kleefisch played a key role in the Foxconn deal, \u201cthe largest attempted government handout to a foreign company in American history.\"",
+        "classification label": "True",
+        "true certainty": "90%",
+        "explanation": "Rebecca Kleefisch served as the Lieutenant Governor of Wisconsin from 2011 to 2019 and played a significant role in the negotiations and promotion of the Foxconn deal. The deal involved significant monetary incentives and tax breaks for the Taiwanese company to establish a manufacturing facility in Wisconsin, making it one of the largest attempted government incentives in American history for a foreign company."
+    },
+    {
+        "statement": "\u201cParents who challenge school curriculums are domestic terrorist(s).\"",
+        "classification label": "false",
+        "true certainty": "95",
+        "explanation": "This statement is an extreme and inflammatory generalization. It is not fair to label parents who challenge school curriculums as domestic terrorists. While some parents may have extreme or radical beliefs, it is not accurate nor productive to classify them as terrorists. Caution should be exercised when using such strong language and broad categorizations."
+    },
+    {
+        "statement": "A photo shows sex traffickers using an abandoned child car seat to lure in victims.",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "The statement seems like a possibility, but without any evidence or specific details about the photo, it is difficult to determine its authenticity. Additional verification and information are needed to confirm the existence and context of the photo."
+    },
+    {
+        "statement": "Says Hunter Biden \u201cwas hanged at Gitmo.\u201d",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "This statement is false and lacks any credible evidence. There is no verified information or news reports to support the claim that Hunter Biden was hanged at Guantanamo Bay. It is important to verify information with reliable sources before believing or spreading such claims."
+    },
+    {
+        "statement": "California\u2019s shipping backlog is, in part, caused by a \u201cCalifornia Truck Ban which says all trucks must be 2011 or newer and a law called AB 5 which prohibits Owner Operators.\u201d",
+        "classification label": "False",
+        "true certainty": "75%",
+        "explanation": "The statement is incorrect because there is no such thing as a \"California Truck Ban\" that requires all trucks to be 2011 or newer. Additionally, AB 5, a California labor law, does not specifically prohibit Owner Operators. While both the truck ban and AB 5 may have some impact on California's shipping backlog, the statement inaccurately describes their actual provisions."
+    },
+    {
+        "statement": "\u201cThe seasonal cold and flu is actually more dangerous for kids than the Coronavirus\u201d and \u201cthere is very low transmissibility from children to their families and communities.\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "The statements suggest that the seasonal cold and flu are more dangerous for kids than the Coronavirus, but this is not supported by scientific evidence. While children may show milder symptoms for COVID-19 compared to adults, they can still transmit the virus to others, including their families and communities. Therefore, it is important to take precautions and not underestimate the potential transmission from children."
+    },
+    {
+        "statement": "In the United Kingdom, \u201c81% of COVID-19 deaths are among the vaccinated.\u201d",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "This statement is false because it is a misleading claim. While it is true that some COVID-19 deaths have occurred among vaccinated individuals, the percentage mentioned is not accurate. The majority of COVID-19 deaths in the United Kingdom have been among unvaccinated or partially vaccinated individuals. Therefore, attributing 81% of deaths solely to the vaccinated population is incorrect and not supported by reliable data."
+    },
+    {
+        "statement": "\u201cVirginia has the lowest standards for math and reading of all 50 states.\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "Virginia does not have the lowest standards for math and reading of all 50 states. This statement is a generalization without any evidence or comparison to support it. Different states have different standards and it would require a comprehensive analysis of all 50 states' standards to make such a claim."
+    },
+    {
+        "statement": "\"Tennessee new law passed 48 hours ago now makes it illegal to teach Black history in the grades K-12.\"",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "This statement is false because there is currently no evidence or credible information to support the claim that Tennessee passed a recent law making it illegal to teach Black history in grades K-12. Such a law would also be unconstitutional and go against efforts to promote diversity and inclusivity in education."
+    },
+    {
+        "statement": "COVID-19 \u201csurges among most vaxxed communities, says Harvard study.\u201d",
+        "classification label": "True",
+        "true certainty": "Certainty: 80%",
+        "explanation": "\n\nThe statement is true based on the information provided. It indicates that a Harvard study found increases in COVID-19 cases among highly vaccinated communities. However, the certainty is not absolute as more context and details about the study are necessary to make a more definitive assessment."
+    },
+    {
+        "statement": "A photo shows a $123,199 turkey for sale at Target \u201cthis year.\u201d",
+        "classification label": "False",
+        "true certainty": "70%",
+        "explanation": "While the statement claims that there is a photo showing a $123,199 turkey for sale at Target this year, without any evidence or context provided, it is difficult to believe such a claim. The price seems excessively high for a turkey, leading to skepticism. More information and verification are needed to establish the truthfulness of this statement."
+    },
+    {
+        "statement": "Democrats \u201cmanufactured votes from low income voters to steal the battleground states.\u201d",
+        "classification label": "False",
+        "true certainty": "10%",
+        "explanation": "This statement is a baseless accusation without any supporting evidence. There is no credible information or proof to suggest that Democrats manufactured votes from low-income voters or stole battleground states. It is important to rely on factual information and avoid spreading unfounded claims."
+    },
+    {
+        "statement": "There is an \u201cepidemic of plane crashes linked to vaccine-related strokes in pilots.\u201d",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "There is no evidence or credible data to support the claim of an \"epidemic of plane crashes linked to vaccine-related strokes in pilots.\" Such a statement seems to be based on speculation or misinformation."
+    },
+    {
+        "statement": "A new federal program \u201cis giving homeowners up to $3,708 every year.\u201d",
+        "classification label": "True",
+        "true certainty": "95%",
+        "explanation": "This statement is true because it clearly states that a new federal program is providing homeowners with up to $3,708 every year. The use of specific numbers and the mention of a federal program increases the credibility of the information."
+    },
+    {
+        "statement": "\u201cThe five most-endangered hospitals in the country are all in (North Carolina).\u201d",
+        "classification label": "True",
+        "true certainty": "90",
+        "explanation": "The statement provides a specific claim that can be fact-checked. If the evidence supports the claim that the five most endangered hospitals in the country are indeed all in North Carolina, then the statement is true. However, without further evidence or data, we cannot be 100% certain of its accuracy."
+    },
+    {
+        "statement": "Desmond Tutu died on Oct. 20, 2021.",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "Desmond Tutu did not die on Oct. 20, 2021. There have been no credible news reports or official statements confirming his death."
+    },
+    {
+        "statement": "\u201cMass media destroyed! Blackout for mass arrests event!\u201d",
+        "classification label": "False",
+        "true certainty": "60%",
+        "explanation": "This statement seems to be a sensationalized claim without any specific evidence or context provided. \"Mass media destroyed\" and \"blackout for mass arrests event\" are vague phrases that require more information to evaluate their veracity. Without further details, it is not possible to determine the accuracy of the statement."
+    },
+    {
+        "statement": "A nurse who fainted after receiving the COVID-19 vaccine died from the vaccination.",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "There is no credible evidence to support the claim that the nurse died from the vaccination. Adverse reactions to vaccines are extremely rare, and thorough investigations are conducted to determine the cause of any unexpected health outcomes. It is more likely that the nurse had a pre-existing medical condition or there were other factors involved in their death."
+    },
+    {
+        "statement": "The FEMA health care workers replacing the noncompliant nurses and doctors are NOT required to get vaccinated via the CDC.\"",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "The statement is incorrect because according to the CDC guidelines, all healthcare workers, including those from FEMA, are encouraged to get vaccinated against COVID-19. While it may not be a strict requirement, the CDC strongly advises healthcare workers to receive the vaccine to protect themselves and their patients from the virus."
+    },
+    {
+        "statement": "Says Christopher Miller is \u201cin charge of the military.\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "Christopher Miller served as the Acting Secretary of Defense from November 2020 to January 2021, but it is incorrect to say that he was \"in charge of the military\" as the President of the United States is the Commander-in-Chief and holds ultimate authority over the military."
+    },
+    {
+        "statement": "Photo of vaccine package with 2018 date stamp shows COVID-19 outbreak was planned.",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "The claim that a photo of a vaccine package with a 2018 date stamp indicates a planned COVID-19 outbreak is not convincing. The date stamp on a package does not provide evidence for any premeditated planning. Additionally, there is a lack of credible and scientific information supporting the conspiracy theory that the COVID-19 outbreak was intentionally planned."
+    },
+    {
+        "statement": "\u201cThe Canadian government threatens to fire any government employee who uses \u2018Let's Go Brandon\u2019 in communications.\u201d",
+        "classification label": "True",
+        "true certainty": "80%",
+        "explanation": "The statement is likely to be true based on recent reports and controversies surrounding the phrase \"Let's Go Brandon\" in Canadian politics. There have been instances of government employees facing disciplinary actions for using this phrase, indicating that the Canadian government does have regulations prohibiting its use in official communications. However, further investigation and confirmation from official sources would be necessary for complete certainty."
+    },
+    {
+        "statement": "COVID-19 vaccines contain \u201cRNA-modifying transhumanism nanotechnology.\"",
+        "classification label": "False",
+        "true certainty": "99%",
+        "explanation": "This statement is false because COVID-19 vaccines do not contain \"RNA-modifying transhumanism nanotechnology.\" The vaccines use mRNA technology to provide instructions for the body's cells to produce a harmless piece of the spike protein of the virus, enabling the immune system to recognize and fight the virus. They do not modify RNA or involve nanotechnology for transhumanism purposes."
+    },
+    {
+        "statement": "The Freedom to Vote Act \"automatically registers ineligible voters.\"",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "The statement suggests that the Freedom to Vote Act automatically registers ineligible voters. However, this is inaccurate and misleading. The Freedom to Vote Act is a proposed legislation aimed at expanding voting rights and ensuring fair elections. It does not endorse automatically registering ineligible voters, but rather focuses on measures such as same-day voter registration, early voting, and increased access to voting options to encourage eligible citizens to exercise their right to vote. The claim made in the statement is unfounded and misrepresents the intentions of the act."
+    },
+    {
+        "statement": "A video shows \u201cthe COVID-19 vaccine when it hits your blood.\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "The statement is likely false because it presents a vague claim without providing any evidence or context. It is important to critically evaluate such statements and rely on reputable sources for accurate information about the COVID-19 vaccine."
+    },
+    {
+        "statement": "\u201cSo now if you don\u2019t comply\u201d and get a COVID-19 vaccination, and you\u2019re on \u201cSocial Security or disability, you won\u2019t be able to receive your money.\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "This statement is false because there is no evidence or official information to suggest that receiving a COVID-19 vaccination would affect a person's ability to receive their Social Security or disability benefits."
+    },
+    {
+        "statement": "There will be a \u201cclown purge\u201d on Oct. 30.",
+        "classification label": "False",
+        "true certainty": "80",
+        "explanation": "Although there have been rumors and claims of \"clown purges\" in the past, no credible evidence or official announcements suggest that a clown purge will occur on October 30th. Additionally, clown purges are often urban legends or internet hoaxes that have fueled fear and panic without substantial proof."
+    },
+    {
+        "statement": "\u201cCorona PCR \u2018test\u2019 is implanting a microchip.\u201d",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "There is no scientific evidence or credible information to support the claim that the Corona PCR test is implanting a microchip. It is a baseless conspiracy theory that has been widely debunked by experts in the field."
+    },
+    {
+        "statement": "Two forms of fluoride in our drinking water \u201care so toxic that the CDC clearly labels these chemicals extremely toxic in both animals and humans.\"",
+        "classification label": "False",
+        "true certainty": "75%",
+        "explanation": "While fluoride can be toxic in large doses, the statement exaggerates the toxicity by claiming that two forms of fluoride in drinking water are \"extremely toxic\" as labeled by the CDC. It is important to note that fluoride is an essential mineral for dental health and is regulated in drinking water to safe levels."
+    },
+    {
+        "statement": "\"Welcome 2 Pres Biden\u2019s America where inflation is costing households an extra $175 a month.\u201d",
+        "classification label": "False",
+        "true certainty": "70%",
+        "explanation": "While there have been reports of rising inflation in the US, it is not accurate to solely attribute it to President Biden's policies. Inflation is a complex economic phenomenon influenced by multiple factors such as global supply chains, natural disasters, and market dynamics. Thus, it is unlikely that the entire blame for increased household costs can be placed solely on President Biden's administration."
+    },
+    {
+        "statement": "\u201cWe\u2019ve created more jobs in the first eight months of my administration than any president in American history \u2014 total number of jobs created.\u201d",
+        "classification label": "True",
+        "true certainty": "Certainty: 80%",
+        "explanation": "This statement is likely true because it claims that more jobs were created in the first eight months of the speaker's administration than in any other presidency in American history. However, without specific data or comparison to other presidencies, it is impossible to verify the accuracy completely."
+    },
+    {
+        "statement": "Pathologists found \"a host of non-biological components ... in the blood of vaccinated people,\u201d including graphene chips and nanochips.",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "The statement claims that pathologists have found graphene chips and nanochips in the blood of vaccinated people. However, there is currently no scientific evidence to support this claim. Additionally, graphene chips and nanochips are not commonly used in vaccines as listed components. Therefore, the statement lacks credibility."
+    },
+    {
+        "statement": "The newly drawn congressional district map in Arkansas \u201ckeeps communities together.\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "The statement that the newly drawn congressional district map in Arkansas \"keeps communities together\" is not convincing. There is insufficient information provided regarding the criteria, methodology, and outcomes of the redistricting process. Without further details, it is difficult to determine the accuracy of the claim."
+    },
+    {
+        "statement": "\u201cBiden flashed the white power sign while a black man was asking him a question.\u201d",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "The claim that Biden flashed the white power sign while a black man was asking him a question is unsubstantiated and lacks credible evidence. It is important to approach such claims with skepticism and verify the authenticity of the information before drawing any conclusions."
+    },
+    {
+        "statement": "\"Southwest Airlines announce they will no longer terminate employees over the mandate.\"",
+        "classification label": "False",
+        "true certainty": "85%",
+        "explanation": "Although this statement seems plausible, there is no reliable evidence or official announcement supporting Southwest Airlines' decision to no longer terminate employees over the mandate. Without verifiable information, it is difficult to be completely convinced of its accuracy."
+    },
+    {
+        "statement": "Facebook is changing its hate speech policy to ban \u201cLet\u2019s go Brandon.\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "The statement is false because as of now, Facebook has not made any announcement regarding changing its hate speech policy to ban the phrase \"Let's go Brandon.\""
+    },
+    {
+        "statement": "A news report quoted Alec Baldwin saying, \u201cHow about I just f----- shoot the both of ya?\u201d",
+        "classification label": "False",
+        "true certainty": "90.\nThe statement in the text is not an actual quote from Alec Baldwin, but rather a censored version of a quote",
+        "explanation": "There is no evidence to suggest that Alec Baldwin actually said this exact statement in the given context."
+    },
+    {
+        "statement": "We are seeing \u201cthe Justice Department treat American parents as domestic terrorists\u201d under the Patriot Act.",
+        "classification label": "false",
+        "true certainty": "90",
+        "explanation": "While the statement raises concerns about the Justice Department treating American parents as domestic terrorists under the Patriot Act, there is no concrete evidence or specific examples provided to support this claim. Without sufficient evidence, it is difficult to be convinced of this statement."
+    },
+    {
+        "statement": "\u201cThere\u2019s been no\u201d TV commercials for the COVID-19 vaccines because \u201cthey are required by law to list all adverse side effects.\u201d",
+        "classification label": "False",
+        "true certainty": "85%",
+        "explanation": "This statement is false because there have been TV commercials for the COVID-19 vaccines. While it is true that vaccine commercials are required to disclose potential side effects, it does not mean that all adverse side effects need to be listed in the commercial. The commercials typically mention common side effects but do not provide an exhaustive list."
+    },
+    {
+        "statement": "Cargo ships \u201ccan\u2019t get into port\u201d because of Donald Trump\u2019s executive order 13959.",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "This statement is false because it makes a general claim that cargo ships cannot get into port due to Donald Trump's executive order 13959. However, this does not align with reality. While the executive order may have had some impact on certain aspects of trade, it does not completely prevent cargo ships from entering ports. There are multiple factors and regulations that determine the movement of cargo ships, and this statement oversimplifies the situation by attributing the issue solely to the executive order."
+    },
+    {
+        "statement": "Says he is the \"ranking member\" of the House select committee investigating the Jan. 6 attack on the U.S. Capitol.",
+        "classification label": "True",
+        "true certainty": "95%",
+        "explanation": "The statement is true based on the claim that the individual mentioned is the \"ranking member\" of the House select committee investigating the Jan. 6 attack on the U.S. Capitol. If this claim is accurate and the individual holds that position, then the statement would be true."
+    },
+    {
+        "statement": "\u201cNIH COVID Treatment Guidelines Approve Ivermectin\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "The statement is false because as of my knowledge, the NIH (National Institutes of Health) does not currently approve the use of Ivermectin as a treatment for COVID-19. It is important to consult reliable sources for updated information on treatment guidelines."
+    },
+    {
+        "statement": "Says Halyna Hutchins tweeted, \u201cI have information that will lead to Hillary Clinton\u2019s arrest.\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "The statement is false because there is no evidence or public knowledge of Halyna Hutchins tweeting such information. Additionally, it seems highly unlikely that a tweet from a random individual would have such significant information leading to the arrest of a prominent figure like Hillary Clinton."
+    },
+    {
+        "statement": "\u201cHalyna Huchins\u2019 next project was documentary on Hollywood pedophile rings.\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "This statement is likely false because there is no credible information or evidence provided to support the claim that Halyna Huchins' next project was a documentary on Hollywood pedophile rings. It is important to verify such serious accusations with reliable sources before accepting them as true."
+    },
+    {
+        "statement": "\u201cGas prices were WAY higher in 2008, under REPUBLICAN president George W. Bush.\u201d",
+        "classification label": "True",
+        "true certainty": "Certainty: 90%",
+        "explanation": "Gas prices were indeed significantly higher in 2008 under President George W. Bush, who was a Republican. This statement is supported by historical data and is widely acknowledged."
+    },
+    {
+        "statement": "\u201cClintons, Powell, and Hunter Biden have already undergone military tribunals.\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "There is no credible evidence or official confirmation to support the claim that Clintons, Powell, and Hunter Biden have undergone military tribunals."
+    },
+    {
+        "statement": "The military raided Hunter Biden\u2019s home.",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "There is no credible evidence or verified reports to support the claim that the military raided Hunter Biden's home. This statement seems to be based on unfounded rumors or misinformation."
+    },
+    {
+        "statement": "\u201cThree percent is not a modest tax increase, if you own a $100,000 home in the city of Buffalo, that means an extra $300 a year.\u201d",
+        "classification label": "True",
+        "true certainty": "90%",
+        "explanation": "The statement is true because if you own a $100,000 home in the city of Buffalo and there is a three percent tax increase, then you would indeed have to pay an extra $300 per year."
+    },
+    {
+        "statement": "\u201cBarack Obama signals That Democrats Intend to Cheat in the Virginia Governor\u2019s Election.\u201d",
+        "classification label": "false",
+        "true certainty": "60",
+        "explanation": "This is a false statement because there is no credible evidence or reliable source to support the claim that Barack Obama signals Democrats' intention to cheat in the Virginia Governor's Election. It seems to be a baseless accusation or rumor without any substantiation."
+    },
+    {
+        "statement": "The remains of Brian Laundrie that were discovered in Florida belong to a twin.",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "The statement that the remains of Brian Laundrie discovered in Florida belong to a twin is not convincing. The information available does not suggest any connection to a twin, and there is no evidence or official reports supporting this claim. Further investigation and verification are needed to determine the identity of the remains and any potential familial connections."
+    },
+    {
+        "statement": "\u201cTrump has been reinstated.\u201d",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "There is no evidence or credible source to support the claim that Donald Trump has been reinstated as President. It is important to rely on factual information and verified sources before accepting such claims."
+    },
+    {
+        "statement": "\u201cThe nation reported adding 194,000 jobs in September, and Florida accounted for 84,500.\u201d",
+        "classification label": "True",
+        "true certainty": "95%",
+        "explanation": "The statement provides specific numbers and states that Florida accounted for a certain portion of the reported jobs, which suggests that the claim is factual."
+    },
+    {
+        "statement": "\u201cCOP26 luxury EVs to be recharged using diesel generators\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "Diesel generators are typically used as a backup or temporary power source, not as a primary means of recharging luxury electric vehicles at an event like COP26. It is more likely that there would be dedicated charging infrastructure or renewable energy sources available for such an event."
+    },
+    {
+        "statement": "Terry McAuliffe has a campaign sign that says, \u201cKeep parents out of classrooms.\u201d",
+        "classification label": "False",
+        "true certainty": "75%",
+        "explanation": "The statement is false because there is no evidence or credible source confirming that Terry McAuliffe has a campaign sign with the statement \"Keep parents out of classrooms.\""
+    },
+    {
+        "statement": "\u201cAustralia to Implement Quarantine Camps for the Unvaxed\u201d",
+        "classification label": "False",
+        "true certainty": "90",
+        "explanation": "The statement suggests that Australia is planning to implement quarantine camps specifically for unvaccinated individuals. However, as of my last knowledge, there have been no official announcements or credible reports confirming this claim. Therefore, I cannot be convinced of the statement's accuracy."
+    },
+    {
+        "statement": "\u201cThe White House referred to Christmas trees as Holiday Trees for the first time this year.\u201d",
+        "classification label": "True",
+        "true certainty": "85%",
+        "explanation": "The statement is true because it accurately states that the White House referred to Christmas trees as Holiday Trees for the first time this year. This has been confirmed by multiple reliable sources and can be verified through official statements and records."
+    },
+    {
+        "statement": "Democrats are \u201casking for a blank check book to spend as much as they want without worrying about the repercussions.\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "While this statement portrays Democrats as irresponsible spenders, it is an oversimplified and biased generalization. It fails to consider that Democrats often advocate for social welfare programs and increased government spending in order to address societal issues. Additionally, it does not acknowledge the checks and balances in place within the political system to prevent excessive spending."
+    },
+    {
+        "statement": "With COVID-19, vaccinated people \"are the real threat to\" unvaccinated people.",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "The statement suggests that vaccinated people are a threat to unvaccinated people, which is not supported by scientific evidence. Vaccinated individuals have a lower risk of both contracting and spreading the virus compared to the unvaccinated."
+    },
+    {
+        "statement": "A White House photographer took a picture of Donald Trump at the White House on Oct. 24.",
+        "classification label": "False",
+        "true certainty": "70%",
+        "explanation": "There is a high likelihood that a White House photographer took a picture of Donald Trump at some point, but without additional information or evidence, it cannot be determined with certainty that a photograph was taken on October 24th."
+    },
+    {
+        "statement": "\u201cIndiana State Police offers to hire Chicago officers who REFUSE TO COMPLY with vax mandate.\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "Based on the statement provided, there doesn't seem to be any credible evidence or official confirmation to support the claim that Indiana State Police is offering to hire Chicago officers who refuse to comply with a vaccine mandate. Without verifiable sources or additional information, it is difficult to fully determine the accuracy of the statement."
+    },
+    {
+        "statement": "President Joe Biden withdrew troops from Afghanistan \u201csimply because of Trump Derangement Syndrome and they wanted to reverse any policy that Trump had implemented.\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "The explanation is that President Joe Biden's decision to withdraw troops from Afghanistan was not solely based on Trump Derangement Syndrome or solely aimed at reversing Trump's policies. The decision was a result of a comprehensive assessment of the situation on the ground, the best interests of the United States, and a fulfillment of Biden's campaign promise to end the longest war in American history. While political factors may have played a part, it would be oversimplifying and misrepresenting the decision to attribute it solely to Trump Derangement Syndrome."
+    },
+    {
+        "statement": "\u201cBiden resigned, Pelosi was detained.\u201d",
+        "classification label": "False",
+        "true certainty": "90",
+        "explanation": "\nThere is no credible evidence or reliable sources to confirm that Biden resigned or that Pelosi was detained. This statement appears to be an unfounded rumor or misinformation."
+    },
+    {
+        "statement": "Photo shows Sheryl Crow wearing a shirt that says, \u201cKeep America Trumpless.\u201d",
+        "classification label": "False",
+        "true certainty": "85%",
+        "explanation": "The explanation for my label is that this statement seems unlikely to be true as I have not seen any reliable sources or corroborating evidence to support it. Additionally, it is possible that the photo could be manipulated or taken out of context. Without further information, I cannot be convinced of the veracity of this statement."
+    },
+    {
+        "statement": "Says Dr. Anthony Fauci planned the AIDS epidemic.",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "There is no credible evidence or proof to suggest that Dr. Anthony Fauci planned the AIDS epidemic. Such claims are baseless and without any factual basis. Dr. Fauci has devoted his career to researching and combating infectious diseases, including playing a significant role in the fight against HIV/AIDS."
+    },
+    {
+        "statement": "\u201c79.4% of babies who die of \u2018SIDS\u2019 had a vaccine the same day.\u201d",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "The statement is false because there is no scientific evidence or credible research linking vaccines to Sudden Infant Death Syndrome (SIDS). SIDS is a complex and multifactorial problem, and there is no established causal relationship between vaccinations and SIDS deaths. Vaccine safety is extensively studied, and vaccines are rigorously tested before being approved for use."
+    },
+    {
+        "statement": "Photos show Manila Bay before and during Rodrigo Duterte\u2019s administration.",
+        "classification label": "False",
+        "true certainty": "90",
+        "explanation": "The statement is false because the photos provided do not necessarily represent the entire duration of Rodrigo Duterte's administration. Additionally, the photos alone cannot provide a comprehensive analysis of the changes that occurred in Manila Bay during his administration."
+    },
+    {
+        "statement": "\u201cIf Bezos has 200 billion dollas, and there\u2019s 7 billion people on earth, why can\u2019t we each get a billion and (he\u2019d) be left with 193 billion dollas?\u201d",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "This statement is based on a flawed understanding of wealth distribution and assumes that Jeff Bezos' wealth can simply be divided equally among the world's population. In reality, wealth is not distributed evenly, and there are various factors such as taxes, investments, and fluctuations in asset values that affect an individual's net worth. Therefore, the claim that everyone could receive a billion dollars each, leaving Bezos with 193 billion dollars, is incorrect."
+    },
+    {
+        "statement": "Says Donald Trump said, \u201cAlec Baldwin, a total loser, has taken his impression of me to a new low by testing out this theory\u201d by shooting someone.",
+        "classification label": "false",
+        "true certainty": "80",
+        "explanation": "There is no credible evidence or reliable source confirming that Donald Trump made this statement about Alec Baldwin. The statement seems exaggerated and lacks context."
+    },
+    {
+        "statement": "The Anti-Defamation League classified \u201cLet\u2019s go Brandon\u201d as hate speech.",
+        "classification label": "False",
+        "true certainty": "75%",
+        "explanation": "The Anti-Defamation League has not officially classified the phrase \"Let's go Brandon\" as hate speech. While the phrase has gained attention and controversial connotations due to its origins and usage in certain contexts, it does not meet the criteria typically associated with hate speech, which is specifically targeted and discriminatory speech. However, it's worth noting that the perception and interpretation of the phrase can vary among individuals and groups."
+    },
+    {
+        "statement": "An image of a newspaper article says \u201cTrue Bethel Baptist Church becomes the first church in NYS to receive a liquor license.\u201d",
+        "classification label": "True",
+        "true certainty": "95%",
+        "explanation": "The statement is supported by the image of the newspaper article which clearly states that the True Bethel Baptist Church is the first church in New York State to receive a liquor license."
+    },
+    {
+        "statement": "Says Jen Psaki said Joe Biden wants to protect \u201cmarked people.\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "There is no evidence or reliable sources to suggest that Jen Psaki made a statement saying that Joe Biden wants to protect \"marked people.\" Without any credible information to support this claim, it is highly unlikely to be true."
+    },
+    {
+        "statement": "The Biden administration \"published a study concluding 4 (of) 5 new cars on the road by 2050 will still require liquid fuels.\"",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "The statement is false because the Biden administration has not published a study concluding that 4 out of 5 new cars on the road by 2050 will still require liquid fuels. There is no concrete evidence or official statement supporting this claim."
+    },
+    {
+        "statement": "Says Marjorie Taylor Greene tweeted: \u201cPeople can\u2019t really be convicted on such flimsy circumstantial evidence as \u2018having a similar gait\u2019 or \u2018owning the identical shoes\u2019 or \u2018being in DC and not having any alibi for that time\u2019 can they?! I don\u2019t recognize this America.\u201d",
+        "classification label": "false",
+        "true certainty": "80",
+        "explanation": "Although the statement quoted seems to attribute a tweet to Marjorie Taylor Greene, there is no evidence or reliable source referenced to verify the authenticity of the quote. Without proper verification, it is uncertain whether Marjorie Taylor Greene actually made this tweet or not."
+    },
+    {
+        "statement": "\u201cMuslim figure: We must have pork-free menus or we will leave U.S.\u201d",
+        "classification label": "False",
+        "true certainty": "85%",
+        "explanation": "This statement is false because it presents a controversial and exaggerated claim. While there may be individuals who prefer pork-free menus for personal or religious reasons, it is highly unlikely that a single Muslim figure's statement would be representative of the entire Muslim community or that they would make such an ultimatum to leave the U.S."
+    },
+    {
+        "statement": "\u201cAlec Baldwin arrested for first-degree murder and possession of child pornography.\u201d",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "This statement is false because there is no credible evidence or news reports to support the claim that Alec Baldwin was arrested for first-degree murder and possession of child pornography."
+    },
+    {
+        "statement": "\u201cNavy SEALs arrested Hillary Clinton.\u201d",
+        "classification label": "False",
+        "true certainty": "0%",
+        "explanation": "There is no credible evidence or news report to support this claim. It is likely a baseless conspiracy theory."
+    },
+    {
+        "statement": "In the United Kingdom, \u201c70-plus percent of the people who die now from COVID are fully vaccinated.\u201d",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "The statement is false because it misrepresents the data. While it is true that a percentage of people who died from COVID-19 in the United Kingdom were fully vaccinated, the statement fails to acknowledge that the majority of the population is now vaccinated. Therefore, the proportion of vaccinated individuals among the total cases and deaths is expected to be higher. The claim also does not consider other factors such as age, underlying health conditions, or the effectiveness of different vaccines."
+    },
+    {
+        "statement": "\"There is no such thing as a booster. There is a failed product that is sometimes used again in hopes of a different outcome.\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "This statement is false because boosters do exist. A booster is a product or device that is used to enhance or improve the performance or effectiveness of something. While there may be instances where a product fails and is used again in hopes of a different outcome, this does not negate the existence of boosters in general. Therefore, the statement is not convincing."
+    },
+    {
+        "statement": "\u201cViolent crime rate dropped like a rock following West Virginia\u2019s adoption of permitless carry.\u201d",
+        "classification label": "True",
+        "true certainty": "75%",
+        "explanation": "The statement suggests that the violent crime rate significantly decreased after West Virginia implemented permitless carry laws. The certainty is at 75% based on the assumption that the statement accurately reflects the actual impact of permitting carry laws on violent crime rates in West Virginia. However, to provide a more accurate analysis, additional data and statistics would be needed to confirm the correlation between the adoption of permitless carry and the decrease in violent crime."
+    },
+    {
+        "statement": "\"Gas in North Carolina increased 14 cents per gallon this past week, the highest in the nation.\"",
+        "classification label": "True",
+        "true certainty": "90%",
+        "explanation": "The statement provides a specific and measurable claim about gas prices in North Carolina increasing by 14 cents per gallon, which can be fact-checked. The added information about it being the highest in the nation further supports the credibility of the statement."
+    },
+    {
+        "statement": "\u201cTrump is in White House! He promises to lock up Hillary!\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "This statement contains two claims: 1) Trump is in the White House, and 2) He promises to lock up Hillary. The first claim is false because this statement doesn't provide any information about the current time or date, thus making it invalid or outdated. The second claim about Trump promising to lock up Hillary is also unsubstantiated and lacks evidence. Therefore, the overall statement cannot be considered convincing."
+    },
+    {
+        "statement": "\u201cAtlanta just lost 75% of its police force\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "The statement is false because it makes an exaggeration by claiming that Atlanta has lost 75% of its police force, which seems highly unlikely and would have drastic consequences for public safety. It is important to verify information from reliable sources before making such claims."
+    },
+    {
+        "statement": "Blood \u201cstarts to clot in a minute or two\u201d after a Pfizer COVID-19 vaccine injection.",
+        "classification label": "False",
+        "true certainty": "Certainty: 90%",
+        "explanation": "The statement is not accurate. While it is true that some side effects can occur after a Pfizer COVID-19 vaccine injection, such as pain or swelling at the injection site, fatigue, or headache, there is no evidence to suggest that blood clots occur within a minute or two after the injection. Blood clotting is a complex process that takes time and involves multiple factors. It is important to rely on accurate information from reputable sources when evaluating vaccine side effects."
+    },
+    {
+        "statement": "Says a CNN headline said, \u201cIn And Out is the fast food of white supremacists.\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "Despite the statement claiming that a CNN headline said, \"In And Out is the fast food of white supremacists,\" I am skeptical of its accuracy because it seems highly unlikely for a reputable news organization to publish such a controversial and inflammatory headline. I would need further evidence or verification before accepting it as a true statement."
+    },
+    {
+        "statement": "In-N-Out cups say \u201cF--- Joe Biden.\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "While it is possible that In-N-Out cups could have offensive language printed on them, there is currently no verifiable evidence to support the claim that In-N-Out cups say \"F--- Joe Biden.\" Without any credible sources or confirmation from In-N-Out themselves, it seems unlikely that such a statement would be printed on their cups."
+    },
+    {
+        "statement": "Virginia voters are being turned away from polling locations because they were told they already requested absentee ballots when they haven\u2019t.",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "While there have been reports of issues with absentee ballots in Virginia, there is insufficient evidence to support the claim that voters are being turned away from polling locations in large numbers due to this specific reason. It's possible that isolated incidents have occurred, but without concrete data or widespread reports, it is not convincing."
+    },
+    {
+        "statement": "\u201cJapan drops vax rollout\u201d",
+        "classification label": "True",
+        "true certainty": "Certainty: 70%",
+        "explanation": "Explanation: Based on the statement alone, it seems likely that Japan has decided to suspend or discontinue its COVID-19 vaccine rollout. However, without further context or information, it is difficult to ascertain the specific reasons behind this decision or the extent of the suspension."
+    },
+    {
+        "statement": "The migrant caravan from Tapachula, Mexico \u201cis the population of Minneapolis.\u201d",
+        "classification label": "False",
+        "true certainty": "70",
+        "explanation": "The statement is false because the migrant caravan from Tapachula, Mexico is not equivalent to the entire population of Minneapolis. The caravan represents only a fraction of the population of Minneapolis and cannot be considered as the same."
+    },
+    {
+        "statement": "Says gubernatorial candidate Rebecca Kleefisch \u201cworked with Scott Walker to sign five abortion restrictions into law that took away services and threatened doctors with prison time for providing safe and legal abortions.\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "While it is true that Rebecca Kleefisch worked with Scott Walker as his lieutenant governor, there is no verifiable evidence to support the claim that she signed five abortion restrictions into law or that these laws took away services and threatened doctors with prison time. The statement seems to contain political bias and lacks factual substantiation."
+    },
+    {
+        "statement": "\u201cUnmask your kids! Any carbon dioxide concentrations above\u201d 2,000 parts per million are \u201cdangerous!\u201d",
+        "classification label": "False",
+        "true certainty": "Certainty: 90%",
+        "explanation": "The statement is misleading and lacks scientific evidence. While high concentrations of carbon dioxide can be harmful, the claim that any concentrations above 2,000 parts per million are dangerous is not supported by scientific consensus. The actual levels of carbon dioxide that pose a threat to children's health are much higher than the quoted value."
+    },
+    {
+        "statement": "Children who receive COVID-19 vaccinations \"will be walking factories of spike proteins\" that will \"undoubtedly cause illnesses to spread like wildfire in schools.\"",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "This statement is false and misleading. COVID-19 vaccines, including those for children, have undergone rigorous testing and have been deemed safe and effective by scientific authorities. They do not turn vaccinated individuals into \"walking factories of spike proteins\" nor do they cause illnesses to spread uncontrollably in schools. In fact, getting vaccinated helps reduce the transmission of the virus and provides protection for both vaccinated individuals and those around them."
+    },
+    {
+        "statement": "\u201cThe Biden administration wants to create an international oversight committee\u201d to alter or cancel Second Amendment rights.",
+        "classification label": "False",
+        "true certainty": "75%",
+        "explanation": "The statement suggests that the Biden administration wants to create an international oversight committee to alter or cancel Second Amendment rights. However, there is currently no publicly available evidence or official statement from the Biden administration indicating such intentions. Therefore, it is not convincing that this statement is true."
+    },
+    {
+        "statement": "\u201cVirginia Democrat operatives\u201d and Terry McAuliffe campaign staffers posed as white supremacists and stood by Republican Glenn Youngkin\u2019s bus.",
+        "classification label": "False",
+        "true certainty": "85%",
+        "explanation": "The statement claims that \"Virginia Democrat operatives\" and Terry McAuliffe campaign staffers posed as white supremacists and stood by Republican Glenn Youngkin's bus. However, without supporting evidence or reliable sources, it is difficult to believe this claim. Additionally, such an act would be highly controversial and unethical, making it less likely to have occurred."
+    },
+    {
+        "statement": "\u201cFairfax County is not requiring the last four digits of Social Security Numbers on absentee ballots in this election.\u201d",
+        "classification label": "True",
+        "true certainty": "95",
+        "explanation": "The statement is likely true because it states a specific policy change for absentee ballots in Fairfax County. The claim can be verified by checking the official guidelines or statements from the election authorities in Fairfax County."
+    },
+    {
+        "statement": "\"National Guard to fill in for cops who refuse to get vaccinated.\"",
+        "classification label": "True",
+        "true certainty": "95%",
+        "explanation": "The statement is true because there have been reports and announcements from various sources stating that the National Guard will be utilized to support law enforcement duties in areas where police officers refuse to get vaccinated against COVID-19. The high certainty is based on the widespread coverage and confirmation from multiple credible sources."
+    },
+    {
+        "statement": "A photo taken on Jan. 6, 2021, at the United States Capitol riot was \u201cdoctored to look as if the Capitol was on fire.\u201d",
+        "classification label": "True",
+        "true certainty": "Certainty: 90",
+        "explanation": "This statement is likely true because there have been multiple reports and evidence suggesting that certain images from the United States Capitol riot on January 6, 2021, were manipulated or edited to exaggerate certain aspects, such as the appearance of fire at the Capitol building. However, further investigation and analysis would be required to confirm the extent and details of the doctoring."
+    },
+    {
+        "statement": "\"The 550 U.S. billionaires together are worth $2.5 trillion. If we confiscated 100% of their wealth, we'd raise enough to run the federal government for less than eight months.\"",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "This statement is false because while the combined wealth of the 550 U.S. billionaires may indeed be worth $2.5 trillion, it does not necessarily follow that if their wealth was confiscated, it would be enough to run the federal government for less than eight months. The statement fails to take into account the ongoing income and expenses of the government, as well as the potential economic repercussions of such extreme wealth redistribution."
+    },
+    {
+        "statement": "\u201cVirginia man arrested for having Minecraft worlds that were exact replicas of classified U.S. military bases.\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "The statement seems unlikely as it presents a highly unlikely scenario. Although the possibility of creating Minecraft replicas of classified U.S. military bases cannot be entirely dismissed, it is highly improbable that a Virginia man would be arrested solely for having such worlds. The statement lacks specific details and corroborating evidence, making it difficult to believe without further information."
+    },
+    {
+        "statement": "\u201cStates run elections, not the federal government.\u201d",
+        "classification label": "True",
+        "true certainty": "90%",
+        "explanation": "This statement is true because in the United States, the responsibility for conducting elections lies primarily with the state governments rather than the federal government. Each state has its own set of election laws and procedures, and is responsible for managing its own electoral processes, including voter registration, ballot design, and vote counting. While the federal government has some limited oversight and provides guidelines for elections through legislation like the Help America Vote Act, the primary administration and control of elections is carried out at the state level."
+    },
+    {
+        "statement": "In-N-Out cups say \u201cLet\u2019s go Brandon.\u201d",
+        "classification label": "True",
+        "true certainty": "95%",
+        "explanation": "This statement is true because there have been multiple reports and photographs circulating on social media showing In-N-Out cups with the phrase \"Let's go Brandon\" printed on them. These reports have been widely shared and corroborated by various sources, increasing the likelihood that the statement is true."
+    },
+    {
+        "statement": "\u201cGreenland's ice sheet isn't shrinking any more rapidly today than it was 80 years ago.\u201d",
+        "classification label": "false",
+        "true certainty": "80",
+        "explanation": "\n\nI am not convinced that Greenland's ice sheet isn't shrinking any more rapidly today than it was 80 years ago. There is substantial scientific evidence and data that suggest otherwise. Various studies have shown that Greenland's ice sheet has been losing mass at an accelerated rate in recent decades due to global warming and climate change. These studies have used satellite measurements, ice core samples, and other data to track the changes in ice sheet mass over time. The evidence suggests that the rate of ice loss in Greenland has increased significantly in recent years, indicating that it is indeed shrinking more rapidly than 80 years ago."
+    },
+    {
+        "statement": "\u201cWages have gone up higher, faster than inflation.\u201d",
+        "classification label": "True",
+        "true certainty": "Certainty: 80%",
+        "explanation": "\nThe statement is true based on historical data and economic indicators. Generally, when wages increase at a rate higher than inflation, it suggests that workers' purchasing power is increasing and their incomes are growing faster than the cost of living. However, to determine the accuracy of this statement, one would need to analyze specific time periods and economic conditions."
+    },
+    {
+        "statement": "\u201cDEA agent Mark Ibrahim was forced from his job and later indicted simply because he was near the Capitol protest on Jan. 6.\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "The statement implies a causal relationship between being near the Capitol protest and Mark Ibrahim being forced from his job and indicted. However, being near a protest does not automatically lead to such consequences without further evidence or specific actions by Mark Ibrahim. Further investigation and information would be needed to determine the actual reasons behind his situation."
+    },
+    {
+        "statement": "\u201cJan. 6 is being used as a pretext to strip millions of Americans, disfavored Americans, of their core constitutional rights.\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "The statement is an opinion that suggests that millions of Americans, specifically disfavored Americans, are being deprived of their constitutional rights under the pretext of the events on January 6th. However, without additional evidence or context, it is difficult to determine the validity of this claim."
+    },
+    {
+        "statement": "\u201cThere are over 1 million phantom voters on the Florida voter rolls.\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "While it is possible that there may be some errors or inaccuracies in voter rolls, the claim that there are over 1 million phantom voters in Florida seems highly unlikely. Such a significant number would require substantial evidence to support it, and there is no credible and verifiable information available to validate this claim. Without concrete evidence, it is more reasonable to assume that this statement is false."
+    },
+    {
+        "statement": "President Joe Biden changed suits during his visit to the Vatican.",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "There is no evidence or information to suggest that President Joe Biden changed suits during his visit to the Vatican. This statement is unsubstantiated and lacks credibility."
+    },
+    {
+        "statement": "Social media posts suggest a CDC graph shows the COVID-19 vaccine is harmful to children and that California\u2019s school vaccine mandate is dangerous.",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "The statement is false because social media posts cannot be considered as reliable sources for accurate information. Additionally, there is no evidence to support the claim that the COVID-19 vaccine is harmful to children or that California's school vaccine mandate is dangerous. It is important to rely on credible sources such as scientific research and official health organizations for accurate information about vaccines and public health policies."
+    },
+    {
+        "statement": "\u201cGlobal warming is part of (a) natural cycle and there\u2019s nothing we can actually do to stop these cycles.\u201d",
+        "classification label": "False",
+        "true certainty": "Certainty: 70%",
+        "explanation": "\n\nThis statement is not entirely accurate. While it is true that climate change can be influenced by natural cycles, human activities, such as the burning of fossil fuels, have significantly accelerated global warming. Therefore, there are actions we can take to reduce our impact on the environment and mitigate the effects of climate change."
+    },
+    {
+        "statement": "Federal agents directly incited people on Jan. 6, 2021, and \"intentionally entrapped\" American citizens.",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "The statement claims that federal agents directly incited people on January 6, 2021, and intentionally entrapped American citizens. This claim is not substantiated by sufficient evidence or credible sources to support its accuracy. While investigations are ongoing into the events of January 6th, no definitive proof has been presented to prove direct incitement by federal agents or intentional entrapment."
+    },
+    {
+        "statement": "\u201cModerna has been pulled in Iceland and pulled for everyone under age 30 in Finland, Sweden, Norway, Denmark due to heart issues.\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "This statement is false because Moderna's COVID-19 vaccine has not been pulled in Iceland or for everyone under the age of 30 in Finland, Sweden, Norway, or Denmark due to heart issues. While some countries have restricted the use of certain COVID-19 vaccines due to potential side effects, there is no evidence to support the claim made in the statement."
+    },
+    {
+        "statement": "Product shortages are manufactured; goods are stuck in warehouses.",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "There is evidence to suggest that product shortages can be manufactured in certain cases, such as artificially creating scarcity to drive up prices. However, it is also important to consider other factors that can cause goods to be stuck in warehouses, such as logistical issues or supply chain disruptions."
+    },
+    {
+        "statement": "The premier of Australia\u2019s Victoria state \u201cis freezing people\u2019s bank accts\u201d if they are not vaccinated. \u201cThey can\u2019t buy or sell until forced into submission.\u201d",
+        "classification label": "False",
+        "true certainty": "85%",
+        "explanation": "While there may be measures in place to encourage vaccination, there is no evidence to support the claim that the premier of Victoria, Australia is freezing people's bank accounts for not being vaccinated. This statement seems to be an exaggeration or misinformation."
+    },
+    {
+        "statement": "\u201cThe day Al Gore was born there were 130,000 glaciers on Earth. Today, only 130,000 remain.\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "The statement is false because it presents a misleading comparison. While it claims that only 130,000 glaciers remain today, it fails to acknowledge that the original number given is also 130,000. This implies that there has been no change in the number of glaciers, which is unlikely given the documented impact of climate change on glacial retreat worldwide."
+    },
+    {
+        "statement": "\"Elon Musk to donate $250 billion for reparations to African Americans in U.S.\"",
+        "classification label": "False",
+        "true certainty": "70%",
+        "explanation": "While Elon Musk is known for his philanthropy and has made significant donations in the past, there is no credible information or announcement suggesting that he will donate $250 billion specifically for reparations to African Americans in the U.S. Without any official confirmation or reliable sources, the statement remains unverified."
+    },
+    {
+        "statement": "A video shows \u201cyour packages were rerouted and have arrived in the port of Miami\u201d as a result of Gov. Ron DeSantis.",
+        "classification label": "False",
+        "true certainty": "85%",
+        "explanation": "The statement is false because there is no evidence provided that links Gov. Ron DeSantis to the rerouting of packages to the port of Miami. Without any additional information or sources, it is not convincing that the governor had any involvement in this situation."
+    },
+    {
+        "statement": "\u201cTrash bins discovered outside the Gloucester County Board of Elections containing blank ballots as well as bags of shredded ballots from Tuesday\u2019s election!\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "Although the statement presents a seemingly alarming situation, there are several factors that cast doubt on its veracity. Firstly, the source of the information is not mentioned, making it difficult to validate its credibility. Additionally, the statement does not provide specific details such as when and where this incident occurred. Without more concrete evidence or reliable sourcing, it is hard to accept this claim as true."
+    },
+    {
+        "statement": "\u201cScientists say this map represents the US in 30 years if we don\u2019t reverse climate change.\u201d",
+        "classification label": "True",
+        "true certainty": "90",
+        "explanation": "This statement is based on the presumption that climate change is not reversed within the next 30 years, which is supported by scientific consensus. It suggests that if we fail to take action against climate change, the impact will be reflected in the map of the U.S. in three decades."
+    },
+    {
+        "statement": "\u201cThe Spanish High Court has announced (COVID-19) is a bio weapon with a patent, not a virus.\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "This statement is not supported by scientific evidence or credible sources. COVID-19 has been identified as a virus, not a bio weapon, and there is no reliable information about it having a patent. It is important to consult official health organizations for accurate information on the virus."
+    },
+    {
+        "statement": "Bergen County in New Jersey gave more votes to the Democratic gubernatorial candidate after all the ballots were counted.",
+        "classification label": "True",
+        "true certainty": "90%",
+        "explanation": "Bergen County in New Jersey traditionally leans Democratic, so it is likely that the county gave more votes to the Democratic gubernatorial candidate after all the ballots were counted."
+    },
+    {
+        "statement": "Dr. Herbert Smitherman invented Crest toothpaste, Folgers coffee, Safeguard soap and Bounce fabric softener.",
+        "classification label": "False",
+        "true certainty": "0%",
+        "explanation": "This statement is not true. Dr. Herbert Smitherman did not invent Crest toothpaste, Folgers coffee, Safeguard soap, or Bounce fabric softener."
+    },
+    {
+        "statement": "\u201cCEO of Pfizer arrested, charged with fraud.\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "Although the statement might seem alarming at first, I cannot confirm or deny its accuracy. Without any additional information or sources, I am unable to assess the veracity of the claim. It is important to rely on credible news sources to verify such matters."
+    },
+    {
+        "statement": "United Kingdom \u201cgovernment reports suggest the fully vaccinated are rapidly developing Acquired Immunodeficiency Syndrome.\"",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "The statement suggests that fully vaccinated individuals in the United Kingdom are rapidly developing Acquired Immunodeficiency Syndrome (AIDS). However, this is highly unlikely and there is no credible evidence or government reports to support such a claim. The COVID-19 vaccines are not known to cause AIDS, and extensive research and clinical trials have shown them to be safe and effective in preventing severe illness from the virus."
+    },
+    {
+        "statement": "\u201cFox News went from 97% reporting to 94% in Virginia. The fraud is so blatant it's not funny anymore.\u201d",
+        "classification label": "false",
+        "true certainty": "70",
+        "explanation": "Although the statement claims that there is fraud based on the change in reported numbers, it does not provide any evidence or proof of fraudulent activity. Additionally, variations in reported numbers during the counting process can be expected and are not necessarily indicative of fraud."
+    },
+    {
+        "statement": "\u201cPfizer Confirms COVID-Vaccinated People Can \u2018Shed\u2019 Spike Proteins And Harm The Unvaccinated\"",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "\nThe statement is misleading and lacks scientific evidence. While it is true that vaccinated individuals can shed spike proteins through respiratory secretions, there is no concrete evidence to suggest that this shedding harms unvaccinated individuals. Vaccinated individuals shedding spike proteins is a common occurrence and does not pose a significant risk to the unvaccinated."
+    },
+    {
+        "statement": "\"This idea that it's the pandemic of the unvaccinated, it's just a total lie.\"",
+        "classification label": "false",
+        "true certainty": "90%",
+        "explanation": "While the statement claims that the idea of the pandemic being solely caused by the unvaccinated is a lie, it lacks evidence to support this assertion. Multiple studies and expert opinions indicate that the unvaccinated population is more vulnerable to severe COVID-19 infections, making it difficult to dismiss the notion entirely. However, it is important to consider various factors contributing to the pandemic, including breakthrough cases and the potential for variants to infect vaccinated individuals."
+    },
+    {
+        "statement": "The Astroworld concert was a \u201ctest run on the vaxxed\u201d because people who are injected with graphene oxide can be controlled through magnetic frequencies, including music.",
+        "classification label": "False",
+        "true certainty": "0%",
+        "explanation": "This statement is a conspiracy theory and lacks any scientific evidence. There is no credible information to support the claim that the Astroworld concert was a \"test run on the vaxxed\" or that graphene oxide injections can lead to mind control through magnetic frequencies."
+    },
+    {
+        "statement": "In the infrastructure bill that just passed the House, \u201conly 10% is actual infrastructure.\u201d",
+        "classification label": "False",
+        "true certainty": "Certainty: 80%",
+        "explanation": "The statement is not true. Although there has been controversy surrounding the infrastructure bill, the claim that \"only 10% is actual infrastructure\" is an exaggeration. While it is true that the bill includes funding for a variety of programs beyond traditional infrastructure, such as clean energy initiatives and broadband expansion, it is misleading to suggest that only a small portion of the bill is dedicated to infrastructure."
+    },
+    {
+        "statement": "Says N.C. Attorney General Josh Stein has gone after Jan. 6 protesters but he has \u201csaid nothing\u201d about violent summer protests in North Carolina and was \u201cderelict in his duty.\u201d",
+        "classification label": "False",
+        "true certainty": "70%",
+        "explanation": "It is false that N.C. Attorney General Josh Stein has gone after Jan. 6 protesters and said nothing about violent summer protests in North Carolina. This statement is likely an inaccurate portrayal of Stein's actions, as it presents a biased perspective without providing any evidence or specific examples. Further investigation is necessary to determine Stein's stance on these events."
+    },
+    {
+        "statement": "\"Atheists are prohibited from holding office in 8 states.\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "This statement is not true because there is no explicit prohibition against atheists holding office in any state of the United States. The First Amendment of the United States Constitution guarantees the freedom of religion, which includes the right to hold public office regardless of one's religious beliefs. While it is possible that there may be some historical or outdated state laws that attempt to restrict atheists from public office, they would be considered unconstitutional and unenforceable under current legal standards."
+    },
+    {
+        "statement": "The Biden Department of Justice \u201cwould use the FBI to target parents who speak out against critical race theory.\u201d",
+        "classification label": "False",
+        "true certainty": "70%",
+        "explanation": "This statement is not entirely accurate. While there have been discussions about the Department of Justice and its involvement in school board meetings, there is no concrete evidence to suggest that the Biden administration or the Department of Justice specifically targets parents who speak out against critical race theory. It's important to examine multiple sources and gather more information before drawing conclusions."
+    },
+    {
+        "statement": "\u201cAustralian military being trained to **force vaccinate** in door-to-door attacks.\u201d",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "This statement seems to be a sensationalized and misleading claim. There is no credible evidence or official reports to support the assertion that the Australian military is being trained to force vaccinate people through door-to-door attacks. Such an extreme and alarming action is highly unlikely and goes against ethical standards. It is important to verify information with reliable sources before drawing conclusions."
+    },
+    {
+        "statement": "The deaths at the Astroworld festival were part of a satanic ritual.",
+        "classification label": "False",
+        "true certainty": "0%",
+        "explanation": "The statement that the deaths at the Astroworld festival were part of a satanic ritual is unfounded and lacks credible evidence. There is no legitimate basis to support such a claim, and it is important not to spread misinformation or engage in conspiracy theories without substantial proof."
+    },
+    {
+        "statement": "\u201cFUN FACT: West Virginia is home to zero billionaires.\u201d",
+        "classification label": "False",
+        "true certainty": "85%",
+        "explanation": "While it may be surprising, it is possible that there are billionaires living in West Virginia that are not publicly known or have chosen to keep a low profile. Therefore, it is not accurate to claim that West Virginia is home to zero billionaires with absolute certainty."
+    },
+    {
+        "statement": "Merriam-Webster recently changed its definition of the word \u201cvaccine\u201d and removed the immunity portion.",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "Merriam-Webster has not recently changed its definition of the word \"vaccine\" to remove the immunity portion. This statement is not supported by any reliable evidence or official announcement from Merriam-Webster. Therefore, I am not convinced of its accuracy."
+    },
+    {
+        "statement": "A crime was committed when a New Jersey election worker allowed someone who said he was not a citizen to fill out a ballot.",
+        "classification label": "True",
+        "true certainty": "Certainty: 90%",
+        "explanation": "\nExplanation: The statement describes an act that goes against election laws, as only citizens are typically allowed to vote. However, without additional evidence or context, it is challenging to ascertain the specific details and circumstances of the event, leading to a small margin of uncertainty."
+    },
+    {
+        "statement": "\u201cMore fraud in New Jersey\u2019s election uncovered \u2013 voting machines would not allow citizens to vote for Republican governor candidate.\u201d",
+        "classification label": "false",
+        "true certainty": "70%",
+        "explanation": "There is no concrete evidence provided in the statement to support the claim of fraud in New Jersey's election. Additionally, the statement lacks specific information on the voting machines and the alleged restriction on voting for the Republican governor candidate. Without further evidence or details, it is difficult to be convinced of the claim."
+    },
+    {
+        "statement": "President Joe Biden threatened to \u201cswoop down with Special Forces folks and gather up every gun in America.\u201d",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "\n\nThe statement is false as there is no credible evidence to suggest that President Joe Biden ever made such a threat. It is important to fact-check information before accepting it as true, especially when it comes to controversial statements like this one."
+    },
+    {
+        "statement": "The Biden administration inherited gains of \u201c50,000 jobs a month. We're now finally back to 500,000 jobs a month. We inherited a country where 4,000 people a day were dying from Covid. That's now down 75%.\u201d",
+        "classification label": "False",
+        "true certainty": "Certainty: 60%",
+        "explanation": "\n\nThe statement claims that the Biden administration inherited gains of \"50,000 jobs a month\" and that the current job growth has reached \"500,000 jobs a month.\" However, without specific data and context, it is difficult to verify the accuracy of these numbers. Additionally, the claim that daily Covid deaths have decreased by 75% needs further evidence to support it. Therefore, while there may have been improvements in job growth and Covid-19 cases, the specific numbers mentioned in the statement cannot be entirely confirmed."
+    },
+    {
+        "statement": "\u201cQueen Elizabeth d-e-a-d at age 95.\u201d",
+        "classification label": "false",
+        "true certainty": "90",
+        "explanation": "I am not convinced that Queen Elizabeth is dead at age 95. This statement contradicts any information I have about her current status or recent events. Without any credible sources or confirmation, it is highly unlikely to be true."
+    },
+    {
+        "statement": "A banner for COVID-19 vaccines says, \u201cDon\u2019t forget to donate your childrens organs.\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "This statement is false based on the fact that there is no scientific evidence or credible source suggesting that COVID-19 vaccines require the donation of children's organs. Additionally, it is highly unlikely that any official banner or communication regarding vaccines would include such a message, as it goes against ethical and legal guidelines for medical practices."
+    },
+    {
+        "statement": "Photos show \u201cdiesel generators\u201d at the COP26 climate change conference.",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "The statement is misleading. There were indeed photos circulating online that claimed to show \"diesel generators\" at the COP26 climate change conference. However, these photos were later debunked and clarified to be incorrect. The actual equipment shown in the photos were not diesel generators but rather electric generators using biofuel. Therefore, the statement is false as it inaccurately represents the nature of the generators at the conference."
+    },
+    {
+        "statement": "\"Arizona Department of Education gives green light on face mask and vaccine mandates, as well as implementing Critical (Race) Theory.\u201d",
+        "classification label": "False",
+        "true certainty": "75",
+        "explanation": "I am not convinced by this statement because it contains multiple claims that need to be fact-checked. Firstly, the Arizona Department of Education's stance on face mask and vaccine mandates needs verification. Secondly, whether they are implementing Critical Race Theory also needs further investigation. Without concrete evidence supporting these claims, it is not possible to be fully convinced of their accuracy."
+    },
+    {
+        "statement": "Live Nation scheduled the 50,000-person Astroworld music festival at a venue that has a capacity of 20,000.",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "The statement claims that Live Nation scheduled a 50,000-person music festival at a venue that only has a capacity of 20,000. This seems highly unlikely as it would violate safety regulations and crowd control measures. It is more plausible that Live Nation would choose a venue with a capacity that matches or exceeds the expected attendance to ensure a safe and successful event."
+    },
+    {
+        "statement": "\u201cSending your child to school\u201d on a day when vaccines are being administered \u201cis implied consent\u201d for getting the COVID-19 vaccine.",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "While sending a child to school on a day when vaccines are being administered does suggest openness to vaccinations, it does not necessarily imply consent for getting the COVID-19 vaccine specifically. Consent should be given explicitly and may require additional steps or documentation."
+    },
+    {
+        "statement": "\u201cGavin Newsom is out of sight likely because he has Guillain-Barre syndrome from his booster shot.\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "There is no credible evidence or information to support the claim that Gavin Newsom is hiding because he has Guillain-Barre syndrome from a booster shot. It seems to be a baseless rumor or speculation without any factual basis."
+    },
+    {
+        "statement": "\"Italy drastically reduced the country\u2019s official COV1D-19 death count by over 97%. This means Covid killed fewer people than an average seasonal flu.\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "The statement falsely claims that Italy reduced the official COVID-19 death count by over 97% and implies that COVID-19 is less deadly than seasonal flu. However, there is no credible evidence or reports to support such a significant reduction in the death count. COVID-19 has been shown to be more deadly and have higher hospitalization rates compared to seasonal flu."
+    },
+    {
+        "statement": "\u201cIf you\u2019re a low-wage worker and you\u2019re single and don\u2019t have children, we\u2019re literally taxing you into poverty.\"",
+        "classification label": "False",
+        "true certainty": "60%",
+        "explanation": "This statement is an exaggeration and does not reflect the full complexity of the tax system. While it is true that low-wage workers may face challenges, it is incorrect to claim they are being taxed into poverty solely based on their income level and family status. Tax policies vary, and many countries have measures in place to support low-income individuals, such as tax credits and exemptions."
+    },
+    {
+        "statement": "Says President Joe Biden \u201cis in talks to pay illegal immigrants $450,000.\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "The statement is false as there is no definitive evidence to support the claim that President Joe Biden is in talks to pay illegal immigrants $450,000. No credible news sources or official statements have confirmed such discussions. It is important to fact-check and rely on reliable sources before accepting such claims."
+    },
+    {
+        "statement": "The military arrested \u201cbedridden Gavin Newsom.\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "There is no evidence to support the claim that the military has arrested Gavin Newsom, who is currently serving as the Governor of California. This statement appears to be a baseless rumor or misinformation unless confirmed by credible sources."
+    },
+    {
+        "statement": "No new COVID-19 cases in Uttar Pradesh, India, due to use of ivermectin",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "While ivermectin has shown some potential in treating COVID-19 in some studies, there is not enough scientific evidence to conclude that it is solely responsible for no new cases in Uttar Pradesh, India. There could be other factors contributing to the decrease in cases, such as vaccination efforts, social distancing measures, or natural decline in the transmission rate. More research is needed to establish a direct causal relationship between the use of ivermectin and the absence of new COVID-19 cases in the region."
+    },
+    {
+        "statement": "\"There is no added safety to the public if you're vaccinated.\"",
+        "classification label": "False",
+        "true certainty": "75%",
+        "explanation": "Although vaccination is not a foolproof guarantee against infection or transmission, it significantly reduces the risk of severe illness and hospitalization. Vaccination helps protect not only the individual but also the overall community by creating herd immunity, which in turn enhances public safety."
+    },
+    {
+        "statement": "\"During the AIDS crisis, can you imagine if gay men and intravenous drug users \u2026 had they been pariahs the way the non-vaccinated are? But it would've been inconceivable.\"",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "The statement seems to be suggesting that during the AIDS crisis, gay men and intravenous drug users were not treated as pariahs. However, history shows that these groups faced significant stigma, discrimination, and marginalization during that time. Therefore, it is not accurate to claim that it would have been inconceivable for them to be considered pariahs."
+    },
+    {
+        "statement": "\u201cNo governor in Virginia has ever won when...he or she is the same party as the sitting president.\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "While it is true that party alignment between the governor of Virginia and the sitting president has historically had an impact, it is not an absolute rule. There have been instances where a governor from the same party as the president has won in Virginia, although they may be less common. Therefore, it is not accurate to say that no governor in Virginia has ever won under these circumstances."
+    },
+    {
+        "statement": "\"Report finds increased risk of spontaneous abortion following COVID-19 vaccination during pregnancy\u201d after correcting \u201cmajor error\u201d in CDC study.",
+        "classification label": "False",
+        "true certainty": "70",
+        "explanation": "This statement is false. There is no evidence or report that suggests an increased risk of spontaneous abortion following COVID-19 vaccination during pregnancy after correcting a major error in a CDC study. It is important to rely on credible sources and scientific studies to make informed decisions."
+    },
+    {
+        "statement": "\u201cIowa ranks 45th in the U.S. for internet connectivity.\"",
+        "classification label": "True",
+        "true certainty": "95%",
+        "explanation": "According to recent reports, Iowa ranks 45th in the U.S. for internet connectivity, indicating a relatively low level of access and speed compared to other states."
+    },
+    {
+        "statement": "Scam artists are using Amazon to send people face masks laced with \u201csomething toxic.\u201d",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "While it is possible for scam artists to use platforms like Amazon to distribute counterfeit or low-quality products, there is no credible evidence to support the claim that they specifically send face masks laced with toxic substances. It is important to exercise caution when purchasing goods online, but this particular statement seems to be based on speculation or misinformation rather than verifiable facts."
+    },
+    {
+        "statement": "\u201cThe infrastructure bill itself is only 10% true infrastructure.\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "While it is true that the infrastructure bill may contain elements that are unrelated to traditional infrastructure, such as social programs, it is an exaggeration to claim that only 10% of the bill pertains to infrastructure."
+    },
+    {
+        "statement": "\"Only a court can decide that somebody is incompetent to vote\" -- the state Election Commission \"cannot force facilities, private facilities, to allow special voting deputies\" inside.",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "The statement is not entirely accurate. While it is true that only a court can ultimately decide if someone is incompetent to vote, the state Election Commission does have the authority to enforce certain policies and regulations related to voting, including ensuring access to polling places and the presence of special voting deputies in facilities. However, there may be limitations on the Commission's authority when it comes to private facilities."
+    },
+    {
+        "statement": "Over a million people apprehended at the border this year, \"meaning probably another 2 or 3 million have come in illegally.\"",
+        "classification label": "False",
+        "true certainty": "70%",
+        "explanation": "The statement is false because there is no verifiable evidence or source provided to support the claim that \"another 2 or 3 million have come in illegally.\""
+    },
+    {
+        "statement": "Video shows irate airline passenger demanding a seat away from an unvaccinated passenger and being asked to leave the airplane.",
+        "classification label": "True",
+        "true certainty": "80%",
+        "explanation": "The statement is true because it claims that a video exists showing an irate airline passenger demanding a seat away from an unvaccinated passenger and subsequently being asked to leave the airplane. However, without actually viewing the video, there is still a small margin for error."
+    },
+    {
+        "statement": "\u201cWife of Pfizer\u2019s CEO dies after complications from the vaccine.\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "The statement falsely implies that the vaccine caused the death without providing any evidence. The explanation lacks any supporting details, making it unreliable. Additionally, adverse events from vaccines are thoroughly monitored and investigated, and no causal link has been established between the Pfizer vaccine and deaths."
+    },
+    {
+        "statement": "\"Children are 50 times more likely to be killed by the Covid vaccines than by the virus itself.\"",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "This statement is false and misleading. Scientific studies and data have consistently shown that the risk of severe illness, hospitalization, and death from COVID-19 is much higher in children than the risk of adverse effects from COVID-19 vaccines. Vaccines have undergone rigorous testing and have been proven to be safe and effective in reducing the spread of the virus and protecting individuals from severe illness. The benefits of COVID-19 vaccination in children far outweigh any potential risks."
+    },
+    {
+        "statement": "Kyle Rittenhouse\u2019s mother \u201cdrove him across state lines and dropped him off in the middle of a riot armed with an assault rifle\u201d in Kenosha.",
+        "classification label": "True",
+        "true certainty": "Certainty: 80%",
+        "explanation": "Based on available information and media reports, it is plausible that Kyle Rittenhouse's mother drove him across state lines and dropped him off in Kenosha with an assault rifle during the riot. However, further investigation and legal proceedings would be necessary to establish the complete accuracy of this statement."
+    },
+    {
+        "statement": "\u201cStalin once ripped all the feathers off a live chicken as a lesson to his followers.\u201d",
+        "classification label": "False",
+        "true certainty": "95",
+        "explanation": "This statement is a myth or false rumor that has been widely circulated, but there is no substantial evidence to support it. The claim seems more like propaganda or an attempt to defame Stalin rather than a factual account."
+    },
+    {
+        "statement": "\"In 2015, when Terry McAuliffe was governor, the Virginia Department of Education promoted incorporating critical race theory lens in education...They were trying to indoctrinate kids.\u201d",
+        "classification label": "False",
+        "true certainty": "75%",
+        "explanation": "Critical race theory is a framework that examines the intersection of race and law in society. The Virginia Department of Education did issue guidelines in 2015 that incorporated elements of diversity, equity, and inclusion into the curriculum, but it does not mean that they were attempting to indoctrinate students. This statement seems to be an exaggerated or biased interpretation of the actions taken by the department."
+    },
+    {
+        "statement": "A new medical diagnosis code has been designated for people who decline vaccines, and it will be used to help determine who will go into \"education camps.\"",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "This statement is false because there is no evidence or credible sources to support the existence of a specific medical diagnosis code for people who decline vaccines, nor any indication that it would be used to determine who will go into \"education camps.\" Such a claim appears to be pure speculation or misinformation."
+    },
+    {
+        "statement": "Actor Macaulay Culkin died from a heroin overdose.",
+        "classification label": "False",
+        "true certainty": "100",
+        "explanation": "There is no credible evidence or reports to support the claim that Macaulay Culkin died from a heroin overdose. Macaulay Culkin is still alive and actively working in the entertainment industry. This statement is most likely a false rumor or misinformation."
+    },
+    {
+        "statement": "\u201cDisturbing Pfizer ad tells kids they\u2019ll get superpowers from COVID jab.\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "The statement is false because there is no evidence to support the claim that a Pfizer ad tells kids they will get superpowers from the COVID jab. This appears to be a sensationalized and misleading statement."
+    },
+    {
+        "statement": "Timothy Simpkins, a Black teen shooter, got 1 day in jail and $75,000 bail, while Kyle Rittenhouse, a white teen, got 2 months in jail and $2 million bail. \u201cI think it\u2019s pretty evident ... that white privilege is a myth.\u201d",
+        "classification label": "False",
+        "true certainty": "Certainty: 95%",
+        "explanation": "The statement is false because it presents a comparison between the cases of Timothy Simpkins, a fictional black teen shooter, and Kyle Rittenhouse, a real white teen involved in a shooting. There is no evidence to support the claim that Timothy Simpkins received only 1 day in jail and $75,000 bail, while Kyle Rittenhouse received 2 months in jail and $2 million bail. Furthermore, the statement's conclusion that this comparison disproves the existence of white privilege is flawed and does not consider the broader systemic factors that contribute to disparities in the criminal justice system."
+    },
+    {
+        "statement": "A new Facebook/Meta rule allows the company to use people\u2019s photos without their permission, and posting a notice on your page will stop it from doing so.",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "This statement is misleading and contains misinformation. Facebook (now Meta) has not implemented a rule that allows them to use people's photos without permission. The platform's Terms of Service and Data Use Policy explicitly state that users retain ownership of their content, including photos, and Facebook/Meta does not have the right to use them without consent. Posting a notice on your page will not change the platform's policies regarding photo usage. It is important to fact-check and verify information before making any conclusions or assumptions."
+    },
+    {
+        "statement": "A Kansas City tourism sign had a terrible typo.",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "The statement is false because it lacks any specific information or evidence about the typo on the Kansas City tourism sign. Without further details, it is not possible to determine the accuracy of the claim."
+    },
+    {
+        "statement": "\u201c500 National Guardsmen being called to Kenosha ahead of the Rittenhouse verdict. Had they done this in the first place, there wouldn\u2019t have been a trial.\u201d",
+        "classification label": "False",
+        "true certainty": "60%",
+        "explanation": "The statement suggests that calling 500 National Guardsmen to Kenosha ahead of the Rittenhouse verdict would have prevented a trial. However, the decision to call in National Guardsmen is not solely responsible for determining whether or not a trial takes place. There are multiple factors, such as the legal process and the evidence presented in court, that determine the need for a trial. Therefore, while having National Guardsmen present may have potentially prevented certain incidents or violence, it does not guarantee the absence of a trial."
+    },
+    {
+        "statement": "\u201cClose to hundreds\u201d of people died at Astroworld.",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "There is no concrete evidence or official reports that confirm hundreds of deaths at Astroworld. While it is true that there were tragic incidents and multiple injuries reported at the music festival, the specific claim of \"close to hundreds\" of deaths is baseless and lacks any substantiation."
+    },
+    {
+        "statement": "Says Kamala Harris said only vaccinated people are hospitalized and dying from COVID-19.",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "There is no credible evidence to support the claim that Kamala Harris said only vaccinated people are hospitalized and dying from COVID-19. Such a statement goes against the scientific consensus and public health information which clearly states that unvaccinated individuals are at higher risk of severe illness and hospitalization from COVID-19."
+    },
+    {
+        "statement": "\"Bill Gates just admitted that the Pfizer and Moderna mRNA vaccines don\u2019t work well.\"",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "This statement is false. There is no evidence or credible sources to support the claim that Bill Gates admitted the Pfizer and Moderna mRNA vaccines don't work well. It is important to rely on verified information from reputable sources when making claims about vaccines and public figures."
+    },
+    {
+        "statement": "The COVID-19 vaccines \u201cfailed miserably\u201d in animal trials and are \u201ca type of gene therapy that several top scientists warn will kill you.\u201d",
+        "classification label": "false",
+        "true certainty": "90",
+        "explanation": "The statement provided is false and misleading. The COVID-19 vaccines have undergone extensive animal trials, which have shown promising results in terms of safety and effectiveness. They have been rigorously tested and approved by regulatory authorities after meeting all the necessary requirements. The claim that the vaccines are a form of gene therapy that will kill individuals is incorrect and lacks scientific evidence."
+    },
+    {
+        "statement": "\u201cNAVY SEALs raid cargo ship full of smuggled children.\u201d",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "This statement seems very unlikely and lacks any credible evidence. There are no reliable sources or reports to support such a specific and extraordinary claim."
+    },
+    {
+        "statement": "\"Only one member of Iowa\u2019s federal delegation\" voted in favor of the bipartisan infrastructure legislation.",
+        "classification label": "True",
+        "true certainty": "Certainty: 95%",
+        "explanation": "The statement indicates that only one member of Iowa's federal delegation voted in favor of the bipartisan infrastructure legislation. As long as there is no evidence to contradict this claim, and assuming accurate reporting, it can be accepted as true with a high degree of certainty."
+    },
+    {
+        "statement": "Unleaded gas costs nearly $7 in Lancaster, Calif.",
+        "classification label": "False",
+        "true certainty": "0%",
+        "explanation": "Unleaded gas does not cost nearly $7 in Lancaster, Calif. The average price of unleaded gas in Lancaster, Calif. is around $3."
+    },
+    {
+        "statement": "New York is \"leading the nation with the lowest imprisonment rate of any large state\u201d",
+        "classification label": "False",
+        "true certainty": "80%",
+        "explanation": "Although New York has made efforts to reduce its imprisonment rate, it is not accurate to claim that it is leading the nation with the lowest imprisonment rate of any large state. There are several other states, such as Vermont and Massachusetts, that have lower imprisonment rates than New York."
+    },
+    {
+        "statement": "Keystone Pipeline was blocked by Obama on Warren Buffett\u2019s behalf.",
+        "classification label": "false",
+        "true certainty": "80",
+        "explanation": "The statement suggests that the Keystone Pipeline was blocked by Obama solely for the benefit of Warren Buffett. While it is true that the Keystone Pipeline was blocked by the Obama administration, there is no concrete evidence to support the claim that the decision was made solely to benefit Warren Buffett. Multiple factors, such as environmental concerns and opposition from indigenous communities, played a significant role in the decision-making process."
+    },
+    {
+        "statement": "\u201cNo economist out there is projecting that (the Build Back Better bill) will have a negative impact on inflation.\u201d",
+        "classification label": "True",
+        "true certainty": "90",
+        "explanation": "This statement is likely to be true because it suggests that economists do not foresee the Build Back Better bill having a negative impact on inflation. However, it is also important to note that economic projections can vary, and it is always possible that there might be dissenting opinions among economists."
+    },
+    {
+        "statement": "Says Raz Simone \u201cconquered\u201d part of Seattle, handed out guns to form a paramilitary force that murdered three people, robbed the locals and walked away without being questioned.",
+        "classification label": "False",
+        "true certainty": "90",
+        "explanation": "This statement appears to be a sensationalized and unsubstantiated claim. There is no credible evidence or news reports to support the allegations made. Additionally, Raz Simone, an activist in Seattle, has not been officially linked to any criminal activities mentioned in the statement."
+    },
+    {
+        "statement": "\u201cWe need filibuster reform, and I\u2019ve always been very clear about that.\u201d",
+        "classification label": "False",
+        "true certainty": "70",
+        "explanation": "In this statement, the speaker claims to be clear about the need for filibuster reform. However, without further context or evidence, it is difficult to determine the sincerity or consistency of their stance. Therefore, there is some doubt regarding the credibility of the statement."
+    },
+    {
+        "statement": "\u201cMilitary arrests former President George W. Bush.\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "This statement is false because there is no evidence or credible information suggesting that former President George W. Bush has been arrested by the military. It is important to rely on verified sources before accepting such claims."
+    },
+    {
+        "statement": "The military took over the mainstream media.",
+        "classification label": "False",
+        "true certainty": "85%",
+        "explanation": "While there have been instances of military involvement or influence in media, such as instances of state-owned media or censorship in certain countries, it is not accurate to say that the military has completely taken over the mainstream media globally. The statement seems to be an oversimplification and generalization of complex and diverse media landscapes around the world."
+    },
+    {
+        "statement": "\u201cTrump in the White House!\u201d",
+        "classification label": "True",
+        "true certainty": "75%",
+        "explanation": "The statement \"Trump in the White House!\" is true because it accurately states that Donald Trump is currently the President of the United States. The certainty level is 75% because there could be a small possibility of misinterpretation or ambiguity in the statement, but the general consensus and evidence support the truth of this statement."
+    },
+    {
+        "statement": "\"Spike protein goes to nucleus and impairs DNA repair.\"",
+        "classification label": "True",
+        "true certainty": "90%",
+        "explanation": "The statement is convincing because it suggests that the spike protein can enter the nucleus and interfere with the process of DNA repair. Several studies have shown that the spike protein of SARS-CoV-2 can indeed localize in the nucleus and potentially disrupt key cellular processes, including DNA repair mechanisms. However, further research is still needed to fully understand the extent and implications of this interaction."
+    },
+    {
+        "statement": "Says Bill Gates is linked to the discovery of vials labeled \u201csmallpox\u201d at Pennsylvania lab.",
+        "classification label": "False",
+        "true certainty": "90",
+        "explanation": "There is no credible evidence to support the claim that Bill Gates is linked to the discovery of vials labeled \u201csmallpox\u201d at a Pennsylvania lab. This statement seems to be a misinformation or conspiracy theory, as there is no verifiable information or reliable sources supporting this alleged link."
+    },
+    {
+        "statement": "\u201cBiden\u2019s banking nominee demands all \u2018private bank accounts\u2019 be eliminated\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "This statement is false because there is no evidence to support the claim that Biden's banking nominee is demanding the elimination of all private bank accounts. It is likely a misinterpretation or misinformation."
+    },
+    {
+        "statement": "\u201cNever in American history has so much been spent at one time. Never in American history will so many taxes be raised and so much borrowing be needed to pay for this reckless spending.\u201d",
+        "classification label": "false",
+        "true certainty": "90",
+        "explanation": "\n\nI am not convinced by this statement because it presents a biased and exaggerated view of spending and tax policies in American history. While it may be true that significant amounts have been spent at certain times in history, it is not accurate to claim that \"never\" has so much been spent at one time. Similarly, the assertion that \"never\" will so many taxes be raised and so much borrowing be needed is speculative and lacks evidence. The statement appears to be driven by a negative viewpoint rather than objective analysis."
+    },
+    {
+        "statement": "A photo shows Kyle Rittenhouse wearing a \u201cKlan outfit.\u201d",
+        "classification label": "False",
+        "true certainty": "90%",
+        "explanation": "The statement is false because there is no evidence or credible source supporting the claim that Kyle Rittenhouse has ever been photographed wearing a \"Klan outfit.\" As such, it is highly unlikely to be true."
+    },
+    {
+        "statement": "COVID-19 vaccines contain luciferase.",
+        "classification label": "False",
+        "true certainty": "100",
+        "explanation": "COVID-19 vaccines do not contain luciferase. Luciferase is an enzyme that produces bioluminescence in certain organisms, and it is not used in the development or production of COVID-19 vaccines."
+    },
+    {
+        "statement": "\u201cGerman News Agency Tracks 75 Prominent Athletes Suddenly Dead Of Heart Attacks After COVID Vax\u201d",
+        "classification label": "False",
+        "true certainty": "95%",
+        "explanation": "This statement is false. There is no credible evidence or reports confirming that 75 prominent athletes have suddenly died of heart attacks after receiving the COVID-19 vaccine. It is important to rely on verified sources and fact-check information before drawing conclusions or spreading potentially misleading claims."
+    }
+]
