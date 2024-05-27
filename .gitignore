@@ -1,0 +1,5 @@
+**model_cache**
+changemyview_pei/*.csv
+changemyview_pei/*.npy
+changemyview_pei/*.tsv
+changemyview_pei/*.json
