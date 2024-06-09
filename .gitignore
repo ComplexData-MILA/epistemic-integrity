@@ -5,3 +5,5 @@ changemyview_pei/*.tsv
 changemyview_pei/*.json
 **.env**
 changemyview_pei/data**
+**.vscode**
+**.venv**

@@ -93,7 +93,7 @@ async def process_data_point(session, url, model, message, max_tokens=20, temper
 async def main():
     # use arg parse to get model
     argparser = argparse.ArgumentParser()
-    argparser.add_argument("--model", type=str, default="8b")
+    argparser.add_argument("--model", type=str, default="70b")
     args = argparser.parse_args()
     if args.model == "8b":
         model = "bedrock/meta.llama3-8b-instruct-v1:0"
@@ -138,6 +138,8 @@ async def main():
             if tasks:
                 results += await asyncio.gather(*tasks)
                 pbar.update(len(tasks))  # Update the progress bar for the remaining tasks
+                
+            save_cache(cache)
 
         print(f"Processed {len(results)} data points in {time.time() - start_time:.2f} seconds")
         print("Saving the results to a CSV file...")
@@ -145,10 +147,10 @@ async def main():
         for result in results:
             if "error" in result:
                 relevance.append(2)  # Add a 2 to the relevance column for errors
-            elif "relevant" in result["choices"][0]["message"]["content"].lower():
-                relevance.append(1)
-            else:
+            elif "irrelevant" in result["choices"][0]["message"]["content"].lower():
                 relevance.append(0)
+            else:
+                relevance.append(1)
         df["relevance"] = relevance
         save_data(df, "changemyview_pei/data/labelled_changemyview.csv")
 
