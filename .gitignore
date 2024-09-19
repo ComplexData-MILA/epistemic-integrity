@@ -2,8 +2,12 @@
 changemyview_pei/*.csv
 changemyview_pei/*.npy
 changemyview_pei/*.tsv
+changemyview_pei/data/
 changemyview_pei/*.json
 **.env**
-changemyview_pei/data**
+changemyview_pei/data
 **.vscode**
+wandb
 **.venv**
+**cpython**
+**__pycache__**
